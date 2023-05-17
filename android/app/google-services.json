@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066197648454",
+    "project_id": "look-up-2986e",
+    "storage_bucket": "look-up-2986e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066197648454:android:b1014eff97fdc5448c7647",
+        "android_client_info": {
+          "package_name": "com.example.look_up_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066197648454-8eh57mg5p8rb8s03qg7dk28juedm5ien.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVdDV4DQcCJERWZFqNlsg09JHbfL9kZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066197648454-8eh57mg5p8rb8s03qg7dk28juedm5ien.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
